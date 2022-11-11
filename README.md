@@ -5,7 +5,7 @@ Projeto desenvolvido no módulo de Back-end do curso de Desenvolvimento Web da [
 ## Sobre o projeto
 
 <div align="justify">
-O MongoDB Commerce é um projeto que utiliza o banco de dados commerce, que contém dados do cardápio do MacDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas.
+O MongoDB Commerce é um projeto que utiliza o banco de dados commerce, que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas.
 </div>
 
 ## Desenvolvimento 
